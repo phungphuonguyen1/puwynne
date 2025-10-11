@@ -1,6 +1,7 @@
 baseURL: "https://phungphuonguyen1.github.io/puwynne/"
 publishDir: "docs"
-canonifyURLs: true
+relativeURLs: true
+canonifyURLs: false
 enableEmoji: true
 
 languageCode: bn
