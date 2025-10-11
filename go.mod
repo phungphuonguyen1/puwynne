@@ -1,4 +1,4 @@
-module github.com/hugo-toha/hugo-toha.github.io
+module github.com/phungphuonguyen1/puwynne.git
 
 go 1.21
 
