@@ -26,19 +26,19 @@ summary: 'I am a passionate software engineer with x years of working experience
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "phungphuonguyen1@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://www.github.com/phungphuonguyen1"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "https://www.facebook.com/puwynne/"
 
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "#"
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/pu.wynne/"
 
 - name: Twitter
   icon: "fab fa-twitter"
@@ -60,8 +60,10 @@ socialLinks:
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "My Resume"
-  url: "files/resume.pdf"
+- title: "My CV"
+  url: "static/files/CV-Phung Phuong Uyen- Sep 2025.pdf"
+- title: "My Academic Transcript"
+  url: "static/files/Academic transcript_English.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
