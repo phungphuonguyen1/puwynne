@@ -1,4 +1,4 @@
-baseURL: https://phungphuonguyen1.github.io/
+baseURL: "https://phungphuonguyen1.github.io/puwynne/"
 publishDir: "docs"
 canonifyURLs: true
 enableEmoji: true
