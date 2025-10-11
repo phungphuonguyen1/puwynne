@@ -4,7 +4,7 @@ relativeURLs: false
 canonifyURLs: true
 enableEmoji: true
 
-languageCode: bn
+#languageCode: bn
 title: "Uyen's Blog"
 
 # Use Hugo modules to add theme
@@ -29,11 +29,7 @@ languages:
     languageName: English
     title: "Uyen's Blog"
     weight: 1
-  bn:
-    languageCode: bn
-    languageName: বাংলা
-    title: জনের ব্লগ
-    weight: 2
+
 # default language for the content
 defaultContentLanguage: en
 
@@ -62,7 +58,7 @@ enableEmoji: true
 # Site parameters
 params:
   # Background image of the landing page
-  background: /images/site/background.jpg
+  background: /images/site/bg4.jpg
   # Background image of the landing page for dark theme
   #darkBackground: /images/site/background.jpg
 
