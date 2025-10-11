@@ -1,4 +1,7 @@
-baseURL: https://phungphuonguyen1.github.io
+baseURL: https://phungphuonguyen1.github.io/
+publishDir: "docs"
+canonifyURLs: true
+enableEmoji: true
 
 languageCode: bn
 title: "Uyen's Blog"
@@ -23,7 +26,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Uyen's Blog"
     weight: 1
   bn:
     languageCode: bn
