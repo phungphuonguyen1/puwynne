@@ -59,19 +59,19 @@
 &lt;/div&gt;
 &lt;h2 id="ছব"&gt;ছবি&lt;/h2&gt;
 &lt;h4 id="কন-ধরনর-attribute-ছড়-ছবর-একট-নমন"&gt;কোন ধরনের attribute ছাড়া ছবির একটি নমুনা।&lt;/h4&gt;
-&lt;img src="../posts/shortcodes/boat.jpg"
+&lt;img src="https://phungphuonguyen1.github.io/puwynne/posts/shortcodes/boat.jpg"
 alt="A boat at the sea"
 &gt;
 &lt;div style="margin-top: 3rem;"&gt;&lt;/div&gt;
 &lt;h4 id="height-এব-width-attribute-সহ-ছবর-একট-নমন"&gt;&lt;code&gt;height&lt;/code&gt; এবং &lt;code&gt;width&lt;/code&gt; attribute সহ ছবির একটি নমুনা।&lt;/h4&gt;
-&lt;img src="../posts/shortcodes/boat.jpg"
+&lt;img src="https://phungphuonguyen1.github.io/puwynne/posts/shortcodes/boat.jpg"
 alt="A boat at the sea"
 width="600"
 height="400"
 &gt;
 &lt;div style="margin-top: 3rem;"&gt;&lt;/div&gt;
 &lt;h4 id="height-এব-width-attribute-সহ-মঝখন-সতপত-ছবর-একট-নমন"&gt;&lt;code&gt;height&lt;/code&gt; এবং &lt;code&gt;width&lt;/code&gt; attribute সহ মাঝখানে স্তাপিত ছবির একটি নমুনা।&lt;/h4&gt;
-&lt;img src="../posts/shortcodes/boat.jpg"
+&lt;img src="https://phungphuonguyen1.github.io/puwynne/posts/shortcodes/boat.jpg"
 alt="A boat at the sea"
 width="600"
 height="400"
@@ -79,7 +79,7 @@ class="center"
 &gt;
 &lt;div style="margin-top: 3rem;"&gt;&lt;/div&gt;
 &lt;h4 id="float-attribute-সহ-ছবর-একট-নমন"&gt;&lt;code&gt;float&lt;/code&gt; attribute সহ ছবির একটি নমুনা।&lt;/h4&gt;
-&lt;img src="../posts/shortcodes/boat.jpg"
+&lt;img src="https://phungphuonguyen1.github.io/puwynne/posts/shortcodes/boat.jpg"
 alt="A boat at the sea"
 width="500"
 height="200"
@@ -92,7 +92,7 @@ style="float: right;"
 &lt;li&gt;বিভিন্ন মিডিয়া যেমন ছবি, টুইট, ইউটিউব ভিডিও, ভীমেও ভিডিও ইত্যাদি রেন্ডারিং।&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="ছবর-নমন"&gt;ছবির নমুনা&lt;/h3&gt;
-&lt;img src="../posts/category/sub-category/rich-content/images/forest.jpg"
+&lt;img src="https://phungphuonguyen1.github.io/puwynne/posts/category/sub-category/rich-content/images/forest.jpg"
 alt="Forest"
 class="center"
 &gt;

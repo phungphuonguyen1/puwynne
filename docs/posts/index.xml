@@ -29,7 +29,7 @@
 &lt;li&gt;Different media rendering like image, tweet, YouTube video, Vimeo video etc.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="image-sample"&gt;Image Sample&lt;/h3&gt;
-&lt;img src="../posts/category/sub-category/rich-content/images/forest.jpg"
+&lt;img src="https://phungphuonguyen1.github.io/puwynne/posts/category/sub-category/rich-content/images/forest.jpg"
 alt="Forest"
 class="center"
 &gt;
@@ -87,19 +87,19 @@ style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;
 &lt;/div&gt;
 &lt;h2 id="image"&gt;Image&lt;/h2&gt;
 &lt;h4 id="a-sample-image-without-any-attribute"&gt;A sample image without any attribute.&lt;/h4&gt;
-&lt;img src="../posts/shortcodes/boat.jpg"
+&lt;img src="https://phungphuonguyen1.github.io/puwynne/posts/shortcodes/boat.jpg"
 alt="A boat at the sea"
 &gt;
 &lt;div style="margin-top: 3rem;"&gt;&lt;/div&gt;
 &lt;h4 id="a-sample-image-with-height-and-width-attributes"&gt;A sample image with &lt;code&gt;height&lt;/code&gt; and &lt;code&gt;width&lt;/code&gt; attributes.&lt;/h4&gt;
-&lt;img src="../posts/shortcodes/boat.jpg"
+&lt;img src="https://phungphuonguyen1.github.io/puwynne/posts/shortcodes/boat.jpg"
 alt="A boat at the sea"
 width="600"
 height="400"
 &gt;
 &lt;div style="margin-top: 3rem;"&gt;&lt;/div&gt;
 &lt;h4 id="a-center-aligned-image-with-height-and-width-attributes"&gt;A center aligned image with &lt;code&gt;height&lt;/code&gt; and &lt;code&gt;width&lt;/code&gt; attributes.&lt;/h4&gt;
-&lt;img src="../posts/shortcodes/boat.jpg"
+&lt;img src="https://phungphuonguyen1.github.io/puwynne/posts/shortcodes/boat.jpg"
 alt="A boat at the sea"
 width="600"
 height="400"
@@ -107,7 +107,7 @@ class="center"
 &gt;
 &lt;div style="margin-top: 3rem;"&gt;&lt;/div&gt;
 &lt;h4 id="a-image-with-float-attribute"&gt;A image with &lt;code&gt;float&lt;/code&gt; attribute.&lt;/h4&gt;
-&lt;img src="../posts/shortcodes/boat.jpg"
+&lt;img src="https://phungphuonguyen1.github.io/puwynne/posts/shortcodes/boat.jpg"
 alt="A boat at the sea"
 width="500"
 height="200"
